@@ -1,6 +1,6 @@
 <template>
   <div class="home-page-wrapper">
-    首页
+    首页！！！
   </div>
 </template>
 
